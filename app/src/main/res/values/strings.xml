@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pr1</string>
+    <string name="reg">РЕГИСТРАЦИЯ</string>
+    <string name="log">Логин:</string>
+    <string name="pass">Пароль:</string>
+    <string name="reppass">Повторите пароль:</string>
+    <string name="but">Продолжить</string>
+    <string name="avt">АВТОРИЗАЦИЯ</string>
+    <string name="avlog">Логин:</string>
+    <string name="avpass">Пароль:</string>
+    <string name="butav">Войти</string>
+    <string name="zab">Забыли пароль?</string>
+</resources>

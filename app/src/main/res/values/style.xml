@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyStyle">
+        <item name="android:textColor">#765EFB</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:layout_width">350dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@drawable/radius_button</item>
+        <item name="android:layout_marginTop">15dp</item>
+        <item name="android:backgroundTint">#BFBADA</item>
+    </style>
+
+    <style name="back">
+        <item name="android:background">#DBE3FF</item>
+    </style>
+
+    <style name="StyleText">
+        <item name="android:textSize">18sp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_gravity">left</item>
+        <item name="android:layout_marginLeft">45dp</item>
+        <item name="android:textColor">#765EFB</item>
+        <item name="android:layout_marginTop">30dp</item>
+    </style>
+
+    <style name="StyleButton">
+        <item name="android:background">@drawable/radius_button</item>
+        <item name="android:backgroundTint">#CDFFF1</item>
+        <item name="android:textColor">#765EFB</item>
+        <item name="android:textSize">18sp</item>
+    </style>
+</resources>
